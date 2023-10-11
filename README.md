@@ -11,7 +11,7 @@
 There are no extra compiled components in SPAR-RL and package dependencies are minimal, so the code is very simple to use. We provide instructions how to install dependencies via conda. First, clone the repository locally:
 
 ```bash
-git clone 
+git clone git@github.com:media-sec-lab/SPAR_RL.git
 ```
 
 Next, make sure you have a distribution of anaconda on your system, and create a virtual environment with anaconda from the command line and activate it, as follows (if you are using a local python environment and include pip-related dependencies, you can skip this step) :
